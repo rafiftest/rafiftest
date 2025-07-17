@@ -10,7 +10,7 @@ I’m a passionate software developer with hands-on experience in building web a
 - 🔭 I love solving real-world problems with code.
 - 💻 Experienced in web and mobile development.
 - 👨‍💻 Constantly learning and exploring new technologies.
-- 📫 How to reach me: [rafiftopup@gmail.com](mailto:rafiftopup@gmail.com)
+
 
 ---
 
@@ -54,8 +54,8 @@ I’m a passionate software developer with hands-on experience in building web a
 
 ## 🤝 Let's Connect!
 
-- LinkedIn: [linkedin.com/in/rafifsuta](https://linkedin.com/in/rafifsuta) *(update jika sudah ada)*
-- Email: [rafiftopup@gmail.com](mailto:rafiftopup@gmail.com)
+- LinkedIn: 
+- Email: 
 
 > **“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
 
