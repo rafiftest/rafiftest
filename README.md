@@ -28,8 +28,7 @@ I’m a passionate software developer with hands-on experience in building web a
 
 ### 🔹 Python
 - Data automation and processing scripts
-- REST APIs with Flask & FastAPI
-- Web scraping and data analysis tools
+- Web scraping
 
 ### 🔹 Laravel
 - E-commerce and custom business solutions
